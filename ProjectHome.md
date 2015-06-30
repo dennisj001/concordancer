@@ -1,0 +1,1 @@
+Text search into concordance like lists with many options and features. Written in C# for the Windows .Net framework 2.0 and up.
